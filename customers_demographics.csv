@@ -1,0 +1,401 @@
+customer_id,age,gender,emirate,district,join_date
+CUST1000,23,Male,Sharjah,Sharjah - Area 12,2021-01-07
+CUST1001,69,Female,Abu Dhabi,Abu Dhabi - Area 7,2024-05-06
+CUST1002,46,Female,Dubai,Dubai - Area 11,2021-05-08
+CUST1003,65,Female,Dubai,Dubai - Area 1,2024-04-11
+CUST1004,36,Male,Dubai,Dubai - Area 6,2024-08-19
+CUST1005,69,Male,Sharjah,Sharjah - Area 15,2022-01-20
+CUST1006,40,Male,Fujairah,Fujairah - Area 15,2023-03-25
+CUST1007,18,Female,Ras Al Khaimah,Ras Al Khaimah - Area 19,2020-10-17
+CUST1008,69,Female,Dubai,Dubai - Area 11,2024-07-29
+CUST1009,23,Female,Abu Dhabi,Abu Dhabi - Area 2,2023-03-13
+CUST1010,36,Male,Umm Al Quwain,Umm Al Quwain - Area 14,2020-04-15
+CUST1011,72,Female,Ajman,Ajman - Area 2,2023-12-14
+CUST1012,72,Female,Abu Dhabi,Abu Dhabi - Area 4,2021-10-31
+CUST1013,50,Male,Ras Al Khaimah,Ras Al Khaimah - Area 17,2024-08-08
+CUST1014,54,Male,Ajman,Ajman - Area 3,2020-01-02
+CUST1015,43,Male,Dubai,Dubai - Area 13,2025-05-22
+CUST1016,34,Male,Dubai,Dubai - Area 9,2021-08-11
+CUST1017,36,Female,Dubai,Dubai - Area 7,2021-10-05
+CUST1018,56,Male,Abu Dhabi,Abu Dhabi - Area 15,2020-03-30
+CUST1019,60,Male,Dubai,Dubai - Area 11,2023-09-30
+CUST1020,63,Female,Sharjah,Sharjah - Area 2,2020-12-15
+CUST1021,63,Male,Abu Dhabi,Abu Dhabi - Area 15,2024-01-22
+CUST1022,23,Male,Dubai,Dubai - Area 14,2023-07-10
+CUST1023,46,Male,Dubai,Dubai - Area 11,2023-10-06
+CUST1024,21,Male,Dubai,Dubai - Area 3,2023-02-05
+CUST1025,49,Female,Ras Al Khaimah,Ras Al Khaimah - Area 17,2024-05-28
+CUST1026,43,Male,Dubai,Dubai - Area 12,2022-11-28
+CUST1027,68,Male,Dubai,Dubai - Area 15,2022-06-27
+CUST1028,38,Female,Sharjah,Sharjah - Area 16,2020-06-07
+CUST1029,24,Male,Dubai,Dubai - Area 5,2024-05-25
+CUST1030,26,Female,Dubai,Dubai - Area 6,2022-08-16
+CUST1031,61,Male,Dubai,Dubai - Area 19,2020-11-07
+CUST1032,53,Male,Abu Dhabi,Abu Dhabi - Area 5,2023-06-18
+CUST1033,23,Female,Abu Dhabi,Abu Dhabi - Area 3,2025-05-15
+CUST1034,22,Female,Dubai,Dubai - Area 1,2021-03-20
+CUST1035,57,Female,Dubai,Dubai - Area 6,2020-10-24
+CUST1036,22,Male,Ras Al Khaimah,Ras Al Khaimah - Area 15,2022-08-09
+CUST1037,64,Male,Dubai,Dubai - Area 2,2020-02-05
+CUST1038,58,Female,Dubai,Dubai - Area 3,2023-01-12
+CUST1039,22,Male,Sharjah,Sharjah - Area 17,2024-01-15
+CUST1040,22,Male,Abu Dhabi,Abu Dhabi - Area 12,2025-03-24
+CUST1041,74,Male,Sharjah,Sharjah - Area 18,2024-12-03
+CUST1042,39,Male,Abu Dhabi,Abu Dhabi - Area 15,2025-01-19
+CUST1043,39,Female,Fujairah,Fujairah - Area 12,2023-11-09
+CUST1044,64,Male,Abu Dhabi,Abu Dhabi - Area 16,2023-04-10
+CUST1045,71,Female,Dubai,Dubai - Area 8,2023-10-31
+CUST1046,74,Male,Abu Dhabi,Abu Dhabi - Area 14,2024-09-04
+CUST1047,60,Female,Umm Al Quwain,Umm Al Quwain - Area 17,2023-10-17
+CUST1048,39,Female,Dubai,Dubai - Area 8,2021-07-12
+CUST1049,22,Male,Dubai,Dubai - Area 15,2022-06-09
+CUST1050,62,Female,Abu Dhabi,Abu Dhabi - Area 14,2020-05-20
+CUST1051,49,Female,Sharjah,Sharjah - Area 18,2022-06-05
+CUST1052,42,Female,Dubai,Dubai - Area 7,2025-04-25
+CUST1053,69,Female,Ras Al Khaimah,Ras Al Khaimah - Area 3,2023-02-15
+CUST1054,24,Female,Dubai,Dubai - Area 12,2023-07-24
+CUST1055,46,Female,Dubai,Dubai - Area 3,2021-12-26
+CUST1056,18,Male,Abu Dhabi,Abu Dhabi - Area 14,2023-05-28
+CUST1057,44,Male,Dubai,Dubai - Area 15,2025-04-12
+CUST1058,21,Male,Dubai,Dubai - Area 14,2022-11-15
+CUST1059,24,Male,Abu Dhabi,Abu Dhabi - Area 7,2021-06-04
+CUST1060,24,Male,Sharjah,Sharjah - Area 17,2024-12-11
+CUST1061,55,Male,Dubai,Dubai - Area 12,2020-01-10
+CUST1062,60,Female,Dubai,Dubai - Area 4,2022-09-10
+CUST1063,51,Male,Dubai,Dubai - Area 9,2021-01-12
+CUST1064,72,Male,Dubai,Dubai - Area 6,2024-07-14
+CUST1065,39,Female,Dubai,Dubai - Area 16,2024-07-18
+CUST1066,34,Male,Abu Dhabi,Abu Dhabi - Area 2,2021-11-12
+CUST1067,67,Female,Dubai,Dubai - Area 8,2021-08-06
+CUST1068,30,Male,Ajman,Ajman - Area 11,2020-05-31
+CUST1069,72,Female,Fujairah,Fujairah - Area 13,2021-12-20
+CUST1070,18,Female,Dubai,Dubai - Area 17,2022-12-08
+CUST1071,73,Male,Dubai,Dubai - Area 8,2023-03-23
+CUST1072,20,Male,Sharjah,Sharjah - Area 18,2022-05-08
+CUST1073,68,Female,Dubai,Dubai - Area 18,2023-08-09
+CUST1074,48,Female,Abu Dhabi,Abu Dhabi - Area 14,2024-05-22
+CUST1075,74,Female,Abu Dhabi,Abu Dhabi - Area 15,2020-02-19
+CUST1076,22,Female,Sharjah,Sharjah - Area 6,2021-10-25
+CUST1077,49,Male,Sharjah,Sharjah - Area 11,2021-06-14
+CUST1078,73,Male,Abu Dhabi,Abu Dhabi - Area 13,2024-06-23
+CUST1079,47,Male,Dubai,Dubai - Area 1,2022-12-19
+CUST1080,53,Female,Dubai,Dubai - Area 6,2023-04-05
+CUST1081,57,Female,Sharjah,Sharjah - Area 9,2023-05-10
+CUST1082,43,Male,Abu Dhabi,Abu Dhabi - Area 8,2022-05-06
+CUST1083,53,Male,Abu Dhabi,Abu Dhabi - Area 11,2020-05-25
+CUST1084,51,Male,Sharjah,Sharjah - Area 19,2022-07-03
+CUST1085,69,Male,Abu Dhabi,Abu Dhabi - Area 9,2024-08-26
+CUST1086,20,Female,Sharjah,Sharjah - Area 17,2025-06-16
+CUST1087,34,Female,Dubai,Dubai - Area 12,2022-09-19
+CUST1088,72,Female,Abu Dhabi,Abu Dhabi - Area 14,2024-01-02
+CUST1089,68,Male,Dubai,Dubai - Area 15,2020-08-29
+CUST1090,43,Male,Sharjah,Sharjah - Area 16,2021-08-03
+CUST1091,53,Female,Ajman,Ajman - Area 1,2021-11-17
+CUST1092,33,Female,Ajman,Ajman - Area 10,2024-05-03
+CUST1093,28,Female,Dubai,Dubai - Area 8,2021-04-27
+CUST1094,44,Female,Sharjah,Sharjah - Area 18,2023-02-05
+CUST1095,38,Male,Dubai,Dubai - Area 1,2023-06-03
+CUST1096,51,Female,Dubai,Dubai - Area 2,2021-11-03
+CUST1097,22,Male,Ras Al Khaimah,Ras Al Khaimah - Area 1,2021-09-22
+CUST1098,73,Male,Abu Dhabi,Abu Dhabi - Area 1,2021-10-22
+CUST1099,74,Male,Abu Dhabi,Abu Dhabi - Area 9,2021-10-23
+CUST1100,57,Male,Dubai,Dubai - Area 13,2023-12-26
+CUST1101,48,Female,Abu Dhabi,Abu Dhabi - Area 1,2022-03-15
+CUST1102,35,Male,Dubai,Dubai - Area 13,2024-08-05
+CUST1103,64,Male,Dubai,Dubai - Area 7,2021-02-22
+CUST1104,57,Female,Dubai,Dubai - Area 2,2022-09-14
+CUST1105,27,Male,Ras Al Khaimah,Ras Al Khaimah - Area 6,2024-01-18
+CUST1106,69,Male,Ajman,Ajman - Area 7,2023-03-29
+CUST1107,64,Female,Dubai,Dubai - Area 14,2024-03-26
+CUST1108,72,Male,Dubai,Dubai - Area 18,2021-10-11
+CUST1109,59,Male,Dubai,Dubai - Area 15,2022-08-26
+CUST1110,52,Male,Dubai,Dubai - Area 2,2021-08-12
+CUST1111,41,Male,Dubai,Dubai - Area 10,2023-01-05
+CUST1112,71,Female,Dubai,Dubai - Area 12,2021-05-23
+CUST1113,67,Female,Dubai,Dubai - Area 17,2021-03-16
+CUST1114,20,Female,Dubai,Dubai - Area 8,2023-07-01
+CUST1115,19,Female,Dubai,Dubai - Area 11,2022-07-09
+CUST1116,39,Female,Dubai,Dubai - Area 3,2022-02-08
+CUST1117,64,Male,Fujairah,Fujairah - Area 6,2023-09-05
+CUST1118,74,Female,Sharjah,Sharjah - Area 9,2024-12-31
+CUST1119,26,Female,Abu Dhabi,Abu Dhabi - Area 6,2020-09-19
+CUST1120,51,Female,Ajman,Ajman - Area 9,2024-06-08
+CUST1121,39,Female,Dubai,Dubai - Area 7,2024-08-08
+CUST1122,73,Male,Ras Al Khaimah,Ras Al Khaimah - Area 9,2025-02-01
+CUST1123,66,Male,Sharjah,Sharjah - Area 18,2024-04-26
+CUST1124,65,Male,Dubai,Dubai - Area 12,2023-10-29
+CUST1125,44,Male,Abu Dhabi,Abu Dhabi - Area 8,2021-09-28
+CUST1126,41,Female,Dubai,Dubai - Area 8,2023-04-05
+CUST1127,33,Female,Dubai,Dubai - Area 18,2025-05-14
+CUST1128,21,Male,Sharjah,Sharjah - Area 15,2024-11-11
+CUST1129,67,Male,Dubai,Dubai - Area 7,2021-04-03
+CUST1130,64,Male,Abu Dhabi,Abu Dhabi - Area 11,2022-09-25
+CUST1131,74,Male,Ajman,Ajman - Area 16,2023-07-27
+CUST1132,74,Male,Umm Al Quwain,Umm Al Quwain - Area 4,2021-11-30
+CUST1133,49,Male,Dubai,Dubai - Area 6,2020-10-28
+CUST1134,61,Female,Abu Dhabi,Abu Dhabi - Area 3,2024-04-03
+CUST1135,71,Male,Dubai,Dubai - Area 9,2024-05-22
+CUST1136,66,Male,Abu Dhabi,Abu Dhabi - Area 10,2023-05-26
+CUST1137,32,Female,Ras Al Khaimah,Ras Al Khaimah - Area 14,2023-01-30
+CUST1138,43,Male,Abu Dhabi,Abu Dhabi - Area 11,2021-07-07
+CUST1139,25,Female,Dubai,Dubai - Area 18,2020-10-14
+CUST1140,72,Female,Dubai,Dubai - Area 12,2023-04-05
+CUST1141,52,Male,Dubai,Dubai - Area 12,2021-09-12
+CUST1142,31,Male,Sharjah,Sharjah - Area 13,2022-10-02
+CUST1143,56,Male,Ajman,Ajman - Area 13,2020-02-05
+CUST1144,53,Male,Dubai,Dubai - Area 19,2022-01-13
+CUST1145,38,Male,Abu Dhabi,Abu Dhabi - Area 19,2024-10-30
+CUST1146,24,Female,Abu Dhabi,Abu Dhabi - Area 14,2020-12-18
+CUST1147,56,Male,Ras Al Khaimah,Ras Al Khaimah - Area 4,2024-08-26
+CUST1148,47,Male,Ras Al Khaimah,Ras Al Khaimah - Area 13,2025-04-06
+CUST1149,62,Male,Dubai,Dubai - Area 8,2020-03-13
+CUST1150,47,Female,Dubai,Dubai - Area 19,2021-10-09
+CUST1151,66,Male,Sharjah,Sharjah - Area 12,2023-10-08
+CUST1152,49,Male,Abu Dhabi,Abu Dhabi - Area 18,2025-03-29
+CUST1153,49,Male,Ras Al Khaimah,Ras Al Khaimah - Area 6,2022-12-29
+CUST1154,67,Female,Dubai,Dubai - Area 18,2021-02-28
+CUST1155,40,Male,Dubai,Dubai - Area 19,2022-09-25
+CUST1156,25,Female,Dubai,Dubai - Area 5,2021-12-08
+CUST1157,19,Female,Abu Dhabi,Abu Dhabi - Area 9,2024-12-09
+CUST1158,61,Male,Abu Dhabi,Abu Dhabi - Area 3,2021-07-14
+CUST1159,53,Female,Sharjah,Sharjah - Area 10,2022-04-07
+CUST1160,58,Male,Abu Dhabi,Abu Dhabi - Area 19,2024-07-23
+CUST1161,30,Female,Dubai,Dubai - Area 3,2022-08-13
+CUST1162,25,Female,Dubai,Dubai - Area 15,2021-05-31
+CUST1163,18,Female,Dubai,Dubai - Area 1,2021-03-03
+CUST1164,37,Male,Dubai,Dubai - Area 7,2024-04-11
+CUST1165,51,Female,Dubai,Dubai - Area 12,2020-06-08
+CUST1166,40,Male,Sharjah,Sharjah - Area 17,2020-05-28
+CUST1167,42,Male,Dubai,Dubai - Area 5,2022-02-14
+CUST1168,69,Male,Dubai,Dubai - Area 4,2023-06-07
+CUST1169,37,Female,Dubai,Dubai - Area 12,2024-10-01
+CUST1170,47,Female,Sharjah,Sharjah - Area 18,2024-05-04
+CUST1171,62,Male,Fujairah,Fujairah - Area 17,2020-03-07
+CUST1172,40,Male,Sharjah,Sharjah - Area 19,2022-10-10
+CUST1173,53,Male,Dubai,Dubai - Area 9,2025-01-09
+CUST1174,67,Female,Abu Dhabi,Abu Dhabi - Area 4,2021-01-15
+CUST1175,72,Male,Dubai,Dubai - Area 2,2020-02-27
+CUST1176,26,Female,Dubai,Dubai - Area 4,2023-07-06
+CUST1177,70,Male,Abu Dhabi,Abu Dhabi - Area 2,2020-12-07
+CUST1178,46,Female,Dubai,Dubai - Area 15,2025-02-04
+CUST1179,32,Male,Dubai,Dubai - Area 2,2023-02-27
+CUST1180,44,Male,Dubai,Dubai - Area 4,2021-12-27
+CUST1181,73,Male,Sharjah,Sharjah - Area 6,2023-04-10
+CUST1182,46,Female,Abu Dhabi,Abu Dhabi - Area 7,2022-02-08
+CUST1183,36,Female,Abu Dhabi,Abu Dhabi - Area 10,2021-09-05
+CUST1184,54,Male,Sharjah,Sharjah - Area 19,2023-05-17
+CUST1185,31,Female,Dubai,Dubai - Area 19,2024-12-31
+CUST1186,22,Female,Sharjah,Sharjah - Area 12,2020-12-19
+CUST1187,25,Female,Dubai,Dubai - Area 3,2024-02-03
+CUST1188,25,Female,Dubai,Dubai - Area 13,2024-12-26
+CUST1189,26,Male,Ajman,Ajman - Area 18,2020-04-25
+CUST1190,25,Male,Sharjah,Sharjah - Area 8,2023-07-11
+CUST1191,54,Female,Sharjah,Sharjah - Area 15,2021-10-23
+CUST1192,28,Female,Dubai,Dubai - Area 1,2025-01-09
+CUST1193,37,Female,Dubai,Dubai - Area 3,2024-01-05
+CUST1194,69,Male,Dubai,Dubai - Area 8,2024-04-20
+CUST1195,45,Male,Abu Dhabi,Abu Dhabi - Area 4,2021-03-28
+CUST1196,56,Female,Ras Al Khaimah,Ras Al Khaimah - Area 16,2025-02-11
+CUST1197,27,Female,Abu Dhabi,Abu Dhabi - Area 10,2024-02-09
+CUST1198,28,Female,Fujairah,Fujairah - Area 12,2020-10-13
+CUST1199,20,Female,Dubai,Dubai - Area 14,2023-08-19
+CUST1200,27,Female,Dubai,Dubai - Area 14,2022-10-13
+CUST1201,33,Male,Dubai,Dubai - Area 2,2020-11-06
+CUST1202,28,Male,Ras Al Khaimah,Ras Al Khaimah - Area 5,2020-07-26
+CUST1203,23,Female,Sharjah,Sharjah - Area 5,2021-09-09
+CUST1204,24,Female,Sharjah,Sharjah - Area 6,2021-03-21
+CUST1205,44,Male,Sharjah,Sharjah - Area 13,2021-10-31
+CUST1206,29,Male,Sharjah,Sharjah - Area 9,2021-09-24
+CUST1207,38,Female,Ajman,Ajman - Area 15,2020-02-24
+CUST1208,46,Male,Dubai,Dubai - Area 14,2022-06-30
+CUST1209,57,Male,Dubai,Dubai - Area 7,2022-11-01
+CUST1210,20,Female,Dubai,Dubai - Area 2,2021-10-18
+CUST1211,63,Female,Umm Al Quwain,Umm Al Quwain - Area 7,2023-11-24
+CUST1212,53,Female,Fujairah,Fujairah - Area 6,2025-04-15
+CUST1213,22,Male,Abu Dhabi,Abu Dhabi - Area 17,2024-07-29
+CUST1214,67,Female,Sharjah,Sharjah - Area 2,2022-09-06
+CUST1215,70,Male,Ras Al Khaimah,Ras Al Khaimah - Area 3,2021-05-29
+CUST1216,21,Male,Dubai,Dubai - Area 5,2024-08-06
+CUST1217,33,Female,Dubai,Dubai - Area 5,2024-04-14
+CUST1218,63,Female,Ras Al Khaimah,Ras Al Khaimah - Area 1,2020-08-24
+CUST1219,60,Female,Abu Dhabi,Abu Dhabi - Area 8,2023-07-26
+CUST1220,28,Female,Sharjah,Sharjah - Area 12,2020-12-13
+CUST1221,29,Female,Dubai,Dubai - Area 4,2021-09-18
+CUST1222,39,Male,Ras Al Khaimah,Ras Al Khaimah - Area 13,2023-02-01
+CUST1223,45,Male,Umm Al Quwain,Umm Al Quwain - Area 15,2021-09-21
+CUST1224,53,Male,Fujairah,Fujairah - Area 11,2024-03-20
+CUST1225,39,Male,Dubai,Dubai - Area 10,2025-03-10
+CUST1226,44,Female,Ajman,Ajman - Area 3,2023-06-25
+CUST1227,60,Male,Ajman,Ajman - Area 14,2020-12-29
+CUST1228,20,Female,Dubai,Dubai - Area 16,2020-11-16
+CUST1229,32,Female,Ajman,Ajman - Area 10,2024-07-14
+CUST1230,58,Female,Abu Dhabi,Abu Dhabi - Area 10,2020-10-12
+CUST1231,69,Male,Dubai,Dubai - Area 12,2020-05-28
+CUST1232,47,Female,Dubai,Dubai - Area 9,2023-01-12
+CUST1233,48,Male,Abu Dhabi,Abu Dhabi - Area 1,2025-06-12
+CUST1234,24,Male,Abu Dhabi,Abu Dhabi - Area 5,2021-02-09
+CUST1235,43,Female,Sharjah,Sharjah - Area 8,2022-09-04
+CUST1236,48,Male,Dubai,Dubai - Area 11,2021-03-31
+CUST1237,31,Male,Sharjah,Sharjah - Area 12,2024-11-01
+CUST1238,33,Female,Abu Dhabi,Abu Dhabi - Area 1,2022-03-10
+CUST1239,39,Male,Dubai,Dubai - Area 11,2023-03-30
+CUST1240,19,Female,Dubai,Dubai - Area 5,2022-10-09
+CUST1241,36,Female,Sharjah,Sharjah - Area 15,2022-02-22
+CUST1242,30,Female,Dubai,Dubai - Area 5,2021-04-04
+CUST1243,36,Male,Dubai,Dubai - Area 12,2024-04-22
+CUST1244,24,Male,Ras Al Khaimah,Ras Al Khaimah - Area 5,2024-03-03
+CUST1245,68,Female,Dubai,Dubai - Area 17,2022-01-07
+CUST1246,51,Male,Dubai,Dubai - Area 17,2021-05-23
+CUST1247,56,Female,Abu Dhabi,Abu Dhabi - Area 12,2024-08-04
+CUST1248,62,Female,Ras Al Khaimah,Ras Al Khaimah - Area 15,2025-01-01
+CUST1249,46,Female,Abu Dhabi,Abu Dhabi - Area 15,2021-04-25
+CUST1250,22,Male,Ras Al Khaimah,Ras Al Khaimah - Area 6,2024-08-13
+CUST1251,48,Male,Dubai,Dubai - Area 12,2020-04-23
+CUST1252,51,Female,Fujairah,Fujairah - Area 18,2022-01-18
+CUST1253,60,Male,Sharjah,Sharjah - Area 14,2024-05-20
+CUST1254,42,Male,Umm Al Quwain,Umm Al Quwain - Area 2,2020-12-26
+CUST1255,25,Female,Dubai,Dubai - Area 9,2020-12-06
+CUST1256,34,Female,Sharjah,Sharjah - Area 5,2022-02-08
+CUST1257,38,Female,Dubai,Dubai - Area 1,2022-01-30
+CUST1258,54,Female,Dubai,Dubai - Area 3,2022-08-26
+CUST1259,50,Male,Dubai,Dubai - Area 6,2021-03-24
+CUST1260,38,Female,Ras Al Khaimah,Ras Al Khaimah - Area 5,2025-02-09
+CUST1261,74,Female,Umm Al Quwain,Umm Al Quwain - Area 5,2022-04-14
+CUST1262,52,Male,Sharjah,Sharjah - Area 1,2023-04-18
+CUST1263,31,Male,Dubai,Dubai - Area 17,2024-09-21
+CUST1264,23,Female,Dubai,Dubai - Area 19,2023-12-01
+CUST1265,26,Female,Sharjah,Sharjah - Area 14,2024-08-16
+CUST1266,32,Female,Dubai,Dubai - Area 12,2023-05-04
+CUST1267,27,Female,Abu Dhabi,Abu Dhabi - Area 10,2024-01-29
+CUST1268,28,Male,Dubai,Dubai - Area 18,2020-11-06
+CUST1269,34,Male,Dubai,Dubai - Area 11,2020-09-18
+CUST1270,27,Female,Dubai,Dubai - Area 2,2023-12-13
+CUST1271,69,Female,Dubai,Dubai - Area 18,2021-02-09
+CUST1272,22,Female,Abu Dhabi,Abu Dhabi - Area 7,2025-05-16
+CUST1273,47,Female,Abu Dhabi,Abu Dhabi - Area 15,2020-05-22
+CUST1274,41,Male,Umm Al Quwain,Umm Al Quwain - Area 11,2020-12-07
+CUST1275,73,Male,Dubai,Dubai - Area 18,2023-09-01
+CUST1276,24,Female,Dubai,Dubai - Area 12,2023-01-29
+CUST1277,40,Female,Sharjah,Sharjah - Area 6,2020-08-31
+CUST1278,73,Female,Dubai,Dubai - Area 13,2021-05-04
+CUST1279,67,Female,Fujairah,Fujairah - Area 16,2020-01-12
+CUST1280,64,Female,Sharjah,Sharjah - Area 18,2023-06-16
+CUST1281,32,Male,Abu Dhabi,Abu Dhabi - Area 10,2021-07-14
+CUST1282,27,Male,Dubai,Dubai - Area 8,2020-02-11
+CUST1283,56,Male,Ras Al Khaimah,Ras Al Khaimah - Area 18,2021-11-08
+CUST1284,70,Female,Fujairah,Fujairah - Area 1,2021-08-16
+CUST1285,49,Male,Dubai,Dubai - Area 8,2023-12-23
+CUST1286,50,Male,Dubai,Dubai - Area 6,2024-12-31
+CUST1287,33,Female,Abu Dhabi,Abu Dhabi - Area 5,2023-03-27
+CUST1288,61,Male,Umm Al Quwain,Umm Al Quwain - Area 15,2023-05-24
+CUST1289,28,Female,Dubai,Dubai - Area 15,2024-08-20
+CUST1290,36,Male,Fujairah,Fujairah - Area 2,2024-01-25
+CUST1291,42,Male,Sharjah,Sharjah - Area 1,2020-05-13
+CUST1292,46,Female,Dubai,Dubai - Area 11,2022-12-26
+CUST1293,31,Male,Dubai,Dubai - Area 10,2025-02-14
+CUST1294,24,Male,Dubai,Dubai - Area 18,2022-10-27
+CUST1295,52,Female,Abu Dhabi,Abu Dhabi - Area 18,2022-08-05
+CUST1296,34,Female,Dubai,Dubai - Area 17,2024-03-29
+CUST1297,51,Male,Dubai,Dubai - Area 8,2020-03-13
+CUST1298,26,Female,Sharjah,Sharjah - Area 15,2021-02-02
+CUST1299,45,Male,Dubai,Dubai - Area 8,2023-11-29
+CUST1300,48,Male,Abu Dhabi,Abu Dhabi - Area 17,2024-08-25
+CUST1301,20,Female,Fujairah,Fujairah - Area 12,2021-07-31
+CUST1302,37,Female,Ras Al Khaimah,Ras Al Khaimah - Area 8,2022-05-08
+CUST1303,25,Female,Ras Al Khaimah,Ras Al Khaimah - Area 14,2020-05-09
+CUST1304,21,Female,Umm Al Quwain,Umm Al Quwain - Area 4,2022-07-19
+CUST1305,74,Female,Abu Dhabi,Abu Dhabi - Area 1,2024-01-29
+CUST1306,36,Male,Dubai,Dubai - Area 1,2023-05-14
+CUST1307,64,Male,Sharjah,Sharjah - Area 19,2024-12-16
+CUST1308,32,Female,Sharjah,Sharjah - Area 16,2024-11-26
+CUST1309,56,Male,Abu Dhabi,Abu Dhabi - Area 14,2020-09-22
+CUST1310,61,Male,Ajman,Ajman - Area 16,2024-04-09
+CUST1311,51,Male,Dubai,Dubai - Area 5,2025-06-08
+CUST1312,44,Male,Dubai,Dubai - Area 9,2022-03-03
+CUST1313,41,Female,Dubai,Dubai - Area 2,2020-09-09
+CUST1314,37,Female,Dubai,Dubai - Area 18,2022-04-01
+CUST1315,70,Female,Dubai,Dubai - Area 6,2023-08-05
+CUST1316,65,Male,Abu Dhabi,Abu Dhabi - Area 9,2020-06-12
+CUST1317,73,Male,Ras Al Khaimah,Ras Al Khaimah - Area 1,2020-04-04
+CUST1318,25,Male,Dubai,Dubai - Area 9,2024-12-10
+CUST1319,59,Male,Abu Dhabi,Abu Dhabi - Area 16,2022-04-12
+CUST1320,71,Female,Ras Al Khaimah,Ras Al Khaimah - Area 13,2023-02-07
+CUST1321,28,Female,Fujairah,Fujairah - Area 9,2020-12-01
+CUST1322,21,Female,Ajman,Ajman - Area 13,2022-04-01
+CUST1323,60,Male,Sharjah,Sharjah - Area 9,2020-08-25
+CUST1324,50,Female,Sharjah,Sharjah - Area 11,2021-01-15
+CUST1325,65,Female,Dubai,Dubai - Area 4,2023-12-30
+CUST1326,25,Female,Abu Dhabi,Abu Dhabi - Area 2,2022-06-17
+CUST1327,63,Female,Dubai,Dubai - Area 6,2021-04-27
+CUST1328,29,Male,Dubai,Dubai - Area 14,2025-05-14
+CUST1329,27,Male,Dubai,Dubai - Area 4,2022-06-20
+CUST1330,27,Male,Sharjah,Sharjah - Area 6,2022-11-14
+CUST1331,64,Female,Dubai,Dubai - Area 19,2024-08-03
+CUST1332,55,Male,Abu Dhabi,Abu Dhabi - Area 6,2023-02-14
+CUST1333,47,Male,Dubai,Dubai - Area 2,2021-04-26
+CUST1334,38,Male,Sharjah,Sharjah - Area 18,2023-11-16
+CUST1335,68,Male,Abu Dhabi,Abu Dhabi - Area 13,2022-07-05
+CUST1336,40,Female,Ajman,Ajman - Area 9,2022-09-20
+CUST1337,64,Female,Dubai,Dubai - Area 19,2022-08-21
+CUST1338,43,Male,Dubai,Dubai - Area 13,2021-06-20
+CUST1339,39,Male,Dubai,Dubai - Area 11,2023-01-07
+CUST1340,44,Male,Ajman,Ajman - Area 1,2024-05-22
+CUST1341,35,Male,Dubai,Dubai - Area 7,2023-04-11
+CUST1342,60,Male,Sharjah,Sharjah - Area 15,2025-06-02
+CUST1343,46,Male,Dubai,Dubai - Area 1,2022-11-01
+CUST1344,31,Male,Dubai,Dubai - Area 12,2024-12-28
+CUST1345,69,Female,Ras Al Khaimah,Ras Al Khaimah - Area 7,2020-05-07
+CUST1346,39,Female,Sharjah,Sharjah - Area 15,2024-06-19
+CUST1347,48,Male,Sharjah,Sharjah - Area 19,2020-04-01
+CUST1348,69,Male,Ajman,Ajman - Area 1,2024-08-03
+CUST1349,53,Female,Ajman,Ajman - Area 17,2021-06-26
+CUST1350,24,Male,Sharjah,Sharjah - Area 17,2022-04-25
+CUST1351,71,Female,Ajman,Ajman - Area 3,2024-04-04
+CUST1352,53,Female,Sharjah,Sharjah - Area 12,2024-08-08
+CUST1353,37,Male,Sharjah,Sharjah - Area 6,2022-09-15
+CUST1354,25,Male,Dubai,Dubai - Area 11,2025-01-25
+CUST1355,63,Female,Sharjah,Sharjah - Area 3,2021-03-22
+CUST1356,53,Male,Abu Dhabi,Abu Dhabi - Area 8,2021-01-24
+CUST1357,48,Female,Ras Al Khaimah,Ras Al Khaimah - Area 14,2021-11-02
+CUST1358,68,Female,Ras Al Khaimah,Ras Al Khaimah - Area 14,2025-02-27
+CUST1359,62,Female,Abu Dhabi,Abu Dhabi - Area 10,2020-02-12
+CUST1360,26,Male,Ajman,Ajman - Area 2,2020-09-10
+CUST1361,35,Female,Abu Dhabi,Abu Dhabi - Area 14,2023-02-27
+CUST1362,32,Male,Dubai,Dubai - Area 9,2022-12-19
+CUST1363,60,Female,Sharjah,Sharjah - Area 3,2021-10-24
+CUST1364,19,Female,Abu Dhabi,Abu Dhabi - Area 8,2021-04-11
+CUST1365,50,Male,Ajman,Ajman - Area 16,2020-10-13
+CUST1366,61,Female,Ajman,Ajman - Area 2,2022-10-07
+CUST1367,67,Female,Dubai,Dubai - Area 6,2024-03-20
+CUST1368,37,Male,Abu Dhabi,Abu Dhabi - Area 12,2024-01-30
+CUST1369,64,Male,Dubai,Dubai - Area 5,2025-05-07
+CUST1370,24,Male,Dubai,Dubai - Area 2,2022-02-16
+CUST1371,66,Male,Umm Al Quwain,Umm Al Quwain - Area 16,2020-12-10
+CUST1372,25,Male,Sharjah,Sharjah - Area 5,2021-10-03
+CUST1373,40,Female,Dubai,Dubai - Area 15,2021-01-16
+CUST1374,63,Male,Sharjah,Sharjah - Area 12,2024-12-07
+CUST1375,26,Male,Dubai,Dubai - Area 4,2021-11-20
+CUST1376,31,Female,Sharjah,Sharjah - Area 15,2023-06-30
+CUST1377,59,Male,Abu Dhabi,Abu Dhabi - Area 11,2025-05-04
+CUST1378,59,Female,Sharjah,Sharjah - Area 16,2022-12-15
+CUST1379,54,Male,Dubai,Dubai - Area 6,2024-01-26
+CUST1380,57,Male,Fujairah,Fujairah - Area 14,2021-04-01
+CUST1381,48,Female,Dubai,Dubai - Area 18,2022-09-09
+CUST1382,32,Female,Sharjah,Sharjah - Area 12,2020-03-23
+CUST1383,37,Female,Fujairah,Fujairah - Area 11,2025-04-12
+CUST1384,28,Female,Abu Dhabi,Abu Dhabi - Area 13,2023-01-27
+CUST1385,69,Female,Fujairah,Fujairah - Area 11,2020-05-28
+CUST1386,51,Male,Sharjah,Sharjah - Area 16,2023-09-14
+CUST1387,40,Male,Abu Dhabi,Abu Dhabi - Area 15,2023-03-25
+CUST1388,44,Female,Dubai,Dubai - Area 15,2020-07-08
+CUST1389,71,Female,Sharjah,Sharjah - Area 4,2024-02-26
+CUST1390,26,Female,Abu Dhabi,Abu Dhabi - Area 11,2022-06-01
+CUST1391,51,Male,Dubai,Dubai - Area 19,2020-09-19
+CUST1392,46,Male,Dubai,Dubai - Area 15,2023-01-08
+CUST1393,52,Female,Dubai,Dubai - Area 4,2021-02-03
+CUST1394,19,Male,Abu Dhabi,Abu Dhabi - Area 13,2022-02-02
+CUST1395,67,Female,Ras Al Khaimah,Ras Al Khaimah - Area 19,2021-08-31
+CUST1396,71,Female,Umm Al Quwain,Umm Al Quwain - Area 2,2023-07-07
+CUST1397,50,Male,Fujairah,Fujairah - Area 14,2024-11-30
+CUST1398,57,Female,Sharjah,Sharjah - Area 4,2024-06-26
+CUST1399,70,Female,Abu Dhabi,Abu Dhabi - Area 16,2024-04-24
